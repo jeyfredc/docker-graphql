@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-jeyfredc/docker
+
   build:
 
     runs-on: ubuntu-latest
